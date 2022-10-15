@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **anindyaramtripathi@outlook.com**
 
