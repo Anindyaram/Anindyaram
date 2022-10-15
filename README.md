@@ -65,7 +65,9 @@
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anindyaram&" alt="anindyaram" /></p>
+<div align="center"">
+<img  width="45%" src="https://streak-stats.demolab.com/?user=anindyaram&theme=dark" />
+</div>
 
 ## 📊 Github Stats
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anindyaram&show_icons=true&locale=en" alt="anindyaram" /></p>
