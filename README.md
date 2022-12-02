@@ -66,7 +66,7 @@
 
 ## 🔥 Streak Stats
 <div align="center"">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Anindyaram"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Anindyaram&count_private=true"/></a>
 </div>
 
 ## 📊 Github Stats
