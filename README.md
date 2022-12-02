@@ -70,7 +70,7 @@
 </div>
 
 ## 📊 Github Stats
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anindyaram&show_icons=true&locale=en" alt="anindyaram" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anindyaram&show_icons=true&theme=transparent" alt="anindyaram" /></p>
 
 <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anindyaram&show_icons=true&locale=en&layout=compact" alt="anindyaram" /></p>
 
