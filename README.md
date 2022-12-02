@@ -66,7 +66,7 @@
 
 ## 🔥 Streak Stats
 <div align="center"">
-<img  width="45%" src="[![GitHub Streak](https://streak-stats.demolab.com?user=Anindyaram&theme=dark&border_radius=4.4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Anindyaram"/></a>
 </div>
 
 ## 📊 Github Stats
