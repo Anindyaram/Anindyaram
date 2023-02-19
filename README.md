@@ -57,14 +57,6 @@
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-blue?style=flat&logo=Tailwind%20CSS"/>
   </a>
-  &emsp;
-  <a href="https://nodejs.org/en/" target="_blank"> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-success??style=flat&logo=Node.js"/>
-  </a>
-  &emsp;
-  <a href="https://expressjs.com/" target="_blank"> 
-    <img alt="ExpressJs" src="https://img.shields.io/badge/-ExpressJs-lightgrey?style=flat&logo=Express"/>
-  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -75,6 +67,14 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
   <a href="https://mongoosejs.com/"><img alt="Mongoose" src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=MongoDB"></a>
+    &emsp;
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-success??style=flat&logo=Node.js"/>
+  </a>
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img alt="ExpressJs" src="https://img.shields.io/badge/-ExpressJs-lightgrey?style=flat&logo=Express"/>
+  </a>
 </p>
 
 ## 🔥 Streak Stats
