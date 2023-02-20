@@ -57,6 +57,10 @@
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-blue?style=flat&logo=Tailwind%20CSS"/>
   </a>
+  &emsp;
+  <a href="https://www.jsdocs.io/package/ejs" target="_blank"> 
+    <img alt="Tailwind" src="https://img.shields.io/badge/EJS%20-%232370ED.svg?logo=javascript&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
