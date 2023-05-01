@@ -41,6 +41,10 @@
 
 ### 👉 Frontend Development
 <p align="left"> 
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img alt="ReactJs" src="https://img.shields.io/badge/-React-blue?style=flat&logo=react"/>
+  </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -57,6 +61,7 @@
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-blue?style=flat&logo=Tailwind%20CSS"/>
   </a>
+  
   &emsp;
   <a href="https://www.jsdocs.io/package/ejs" target="_blank"> 
     <img alt="Tailwind" src="https://img.shields.io/badge/EJS%20-%232370ED.svg?logo=javascript&logoColor=white"/>
