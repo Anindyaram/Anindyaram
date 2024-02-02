@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT,C++,Python**
 
-- 📫 How to reach me **anindyaramtripathi@outlook.com**
+- 📫 How to reach me **anindyaramtripathi@gmail.com**
 
 
 ## 🛠️ My Skills
